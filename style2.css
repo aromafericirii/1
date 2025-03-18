@@ -7,8 +7,6 @@
     box-sizing: border-box;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Lemon+Milk:wght@400;700&display=swap');
-
 @font-face {
     font-family: 'Lemon Milk';
     src: url('https://github.com/aromafericirii/1/raw/main/LEMONMILK.otf') format('opentype');
