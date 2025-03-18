@@ -11,15 +11,13 @@
 
 @font-face {
     font-family: 'Lemon Milk';
-    src: url('path-to-your-font/LemonMilk-Regular.woff2') format('woff2'),
-         url('path-to-your-font/LemonMilk-Regular.woff') format('woff');
+    src: url('https://github.com/aromafericirii/1/raw/main/LEMONMILK.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
     font-family: 'Lemon Milk', sans-serif;
-    line-height: 1.6;
 }
 
 /* Header Transparent */
