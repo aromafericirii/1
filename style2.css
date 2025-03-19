@@ -423,3 +423,31 @@ html, body {
     margin-right: 8px;
     vertical-align: middle;
 }
+
+/* Ecrane mai mici de 768px (telefoane) */
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 16px;
+        padding: 10px;
+    }
+
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        margin-bottom: 10px;
+    }
+
+    .btn {
+        width: 100%;
+        text-align: center;
+    }
+
+    .container {
+        width: 90%;
+        margin: 0 auto;
+    }
+}
